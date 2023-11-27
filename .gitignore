@@ -1,0 +1,6 @@
+
+# secret stuff
+.env
+
+# virtual env
+/ngpt_venv
